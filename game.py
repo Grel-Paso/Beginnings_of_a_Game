@@ -204,8 +204,6 @@ def menu(exits):
         
         # Normalise the input
         normalised_input = normalise_input(player_input)
-        print(normalised_input)
-
 
         # Check if the input makes sense (is valid exit)
             # If so, return the player's choice
